@@ -16,6 +16,7 @@ def map_response(gateway_response: dict) -> dict:
 
     # >>> YOUR UI SHAPE — map card schema_ids to your widgets:
     #   "acmehealth.coverage.v1" -> shape it like your UI expects
+    #   "acmehealth.coverage.v1" -> shape it like your UI expects
 
     # <<<
     """
